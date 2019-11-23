@@ -1,0 +1,5 @@
+.DS_Store
+*.swp
+Gemfile.lock
+.vscode/
+*_append.csv
